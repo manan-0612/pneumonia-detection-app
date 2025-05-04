@@ -41,6 +41,7 @@ The trained model file `pneumonia_model.h5` is not included in this repository d
    python app.py
 
 2. **Frontend**
+   ```bash
    cd frontend
    npm install
    npm start
