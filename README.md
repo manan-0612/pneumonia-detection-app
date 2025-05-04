@@ -46,15 +46,17 @@ The trained model file `pneumonia_model.h5` is not included in this repository d
    npm install
    npm start
 
-🧪 Features
+## 🧪 Features
 
-Upload X-ray images through a web interface
-Backend processes the image using a deep learning model
-Displays prediction result (Pneumonia / Normal)
+- Upload X-ray images through a web interface  
+- Backend processes the image using a deep learning model  
+- Displays prediction result (Pneumonia / Normal)
 
-📦 Technologies Used
+---
 
-Frontend: React.js, HTML, CSS
-Backend: Python, Flask
-ML: TensorFlow/Keras
-Deployment: Localhost (Dev Mode)
+## 📦 Technologies Used
+
+- **Frontend**: React.js, HTML, CSS  
+- **Backend**: Python, Flask  
+- **ML**: TensorFlow/Keras  
+- **Deployment**: Localhost (Dev Mode)
